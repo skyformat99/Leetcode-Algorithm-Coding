@@ -1,4 +1,4 @@
-package likou;
+package com.github.lishangzhi.leetcode;
 
 /**
  * @Author: lishangzhi
