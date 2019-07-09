@@ -16,11 +16,14 @@ public class LeetCode10 {
      */
     public boolean isMatch(String s, String p) {
 
+        backtrack(s.length(),p.length(),s,p);
+
+        // 字符长度
         return false;
     }
 
 
-    private void  backtrack(){
+    private void  backtrack(int slen,int plen,String s,String p){
 
     }
 }
