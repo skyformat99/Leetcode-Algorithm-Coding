@@ -2,7 +2,7 @@ package auth.wikafa;
 
 import auth.annotation.MyAnnotation;
 
-@MyAnnotation
+@MyAnnotation(value = "11")
 //这里是将新创建好的注解类MyAnnotation标记到AnnotaionTest类上
 public class AnnotationUse {
 
