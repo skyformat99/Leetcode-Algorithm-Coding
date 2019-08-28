@@ -18,4 +18,5 @@ public class LeetCodeFBNQ {
         if (N == 1 || N == 2) return 1;
         return Fib1(N - 1) + Fib1(N - 2);
     }
+
 }
