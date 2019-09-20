@@ -8,6 +8,7 @@ Gitee 同步仓库地址:https://gitee.com/icloud-iot/LeetCode-Algorithms
 
 > 如果您有更好的解答方法，欢迎交流学习
 
+#### 解法优化
 Github *issues*: https://github.com/lishangzhi/Leetcode-Algorithm-Coding/issues
 Gitee  *issues*: https://gitee.com/icloud-iot/LeetCode-Algorithms/issues
 
