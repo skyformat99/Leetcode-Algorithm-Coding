@@ -8,7 +8,7 @@
 
 Gitee 同步仓库地址:https://gitee.com/icloud-iot/LeetCode-Algorithms
 
-![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/Banaer.png){:height="100px" width="400px"}
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/Banaer.png)
 
 > 如果您有更好的解答方法，欢迎交流学习
 
