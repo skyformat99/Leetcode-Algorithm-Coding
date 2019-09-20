@@ -15,7 +15,7 @@
 2. 从左到右扫描,列出全部组合
 3. 筛选出符合条件的组合结果
 
-``
+```java
 public List<String> findRepeatedDnaSequences(String s) {
         Set visited = new HashSet(), res = new HashSet();
         for (int i = 0; i + 10 <= s.length(); i++) {
@@ -28,7 +28,7 @@ public List<String> findRepeatedDnaSequences(String s) {
         }
         return new ArrayList<>(res);
     }
-``
+```
 
  
 
