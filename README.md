@@ -9,8 +9,8 @@ Gitee 同步仓库地址:https://gitee.com/icloud-iot/LeetCode-Algorithms
 > 如果您有更好的解答方法，欢迎交流学习
 
 #### 解法优化
-Github *issues*: https://github.com/lishangzhi/Leetcode-Algorithm-Coding/issues
-Gitee  *issues*: https://gitee.com/icloud-iot/LeetCode-Algorithms/issues
+- Github *issues*: https://github.com/lishangzhi/Leetcode-Algorithm-Coding/issues
+- Gitee  *issues*: https://gitee.com/icloud-iot/LeetCode-Algorithms/issues
 
 我会尽力将 LeetCode 上所有的题目都用动画的形式演示出来，计划用 3 到 4 年时间去完成它，期待与你见证这一天！
 
