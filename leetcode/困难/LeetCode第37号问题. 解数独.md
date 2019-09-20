@@ -7,8 +7,9 @@
 数字 1-9 在每一个以粗实线分隔的 3x3 宫内只能出现一次。
 空白格用 '.' 表示。
 
-()[https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/1.png]
-()[https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/2.png]
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/1.png)
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/2.png)
+
 
 ## 方法 0：蛮力法
 首先的想法是通过蛮力法来生成所有可能用1 到 9填充空白格的解，
@@ -28,7 +29,7 @@
 
 基本的意思是在放置每个数字时都设置约束。在数独上放置一个数字后立即
 排除当前 行， 列 和 子方块 对该数字的使用。这会传播 约束条件 并有利于减少需要考虑组合的个数。
-()[https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/4.png]
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/4.png)
 
 
 > 第二个叫做 回溯。
@@ -37,7 +38,7 @@
 在数独上。
 但是该组合不是最优的并且不能继续放置数字了。该怎么办？ 回溯。
 意思是回退，来改变之前放置的数字并且继续尝试。如果还是不行，再次 回溯。
-()[https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/5.png]
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/5.png)
 
 
 
@@ -47,7 +48,7 @@
 
 使用 `方块索引= (行 / 3) * 3 + 列 / 3`
 其中 `/` 表示整数除法。
-()[https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/6.png]
+![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/A/6.png)
 
 
 
