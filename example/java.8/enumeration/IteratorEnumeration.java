@@ -10,7 +10,7 @@ import java.util.Random;
  *
  * @author li.Shangzhi
  * @Date: 2019-08-28 18:25
- * @Copy: 深圳市蓝凌软件股份有限公司
+ * @Copy:  阿里巴巴集团
  */
 public class IteratorEnumeration {
 
