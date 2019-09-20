@@ -4,11 +4,12 @@
 1. 数字 1-9 在每一行只能出现一次。
 2. 数字 1-9 在每一列只能出现一次。
 3. 数字 1-9 在每一个以粗实线分隔的 3x3 宫内只能出现一次。
+
 空白格用 '.' 表示。
 
 ![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/1.png)
 
-=>
+一个数独。
 
 ![](https://github.com/lishangzhi/Leetcode-Algorithm-Coding/blob/master/resource/37/Q/2.png)
 
