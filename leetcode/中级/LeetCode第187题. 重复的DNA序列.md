@@ -3,10 +3,10 @@
 编写一个函数来查找 DNA 分子中所有出现超多一次的10个字母长的序列（子串）。
 
 *示例*:
-``
-输入: s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
 
-输出: ["AAAAACCCCC", "CCCCCAAAAA"]
+``输入: s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"``
+
+``输出: ["AAAAACCCCC", "CCCCCAAAAA"]``
 ``
 
 ## 方法 0：滑动窗口
